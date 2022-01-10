@@ -1,0 +1,11 @@
+{"_id":"68OMt9uEeTwAhrJY","key":"core.compendiumConfiguration","value":"{\"dnd5e.heroes\":{\"private\":true,\"locked\":true},\"dnd5e.monsters\":{\"private\":true,\"locked\":true},\"dnd5e_classpack.monsterspack\":{\"private\":false,\"locked\":true}}"}
+{"key":"core.tokenDragPreview","value":"true","_id":"CjAhsjVAs4lcK3hB"}
+{"_id":"MDc2ZjRiYWZhMGM5","key":"core.permissions","value":"{\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[4],\"TOKEN_CONFIGURE\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SETTINGS_MODIFY\":[4],\"BROADCAST_VIDEO\":[4],\"BROADCAST_AUDIO\":[4]}"}
+{"_id":"OGJhNjJjMzUzNGMw","key":"dnd5e.systemMigrationVersion","value":"\"1.2.0\""}
+{"key":"dnd5e.diagonalMovement","value":"\"5105\"","_id":"OOISeB2osD8RgqxR"}
+{"_id":"OTRjOTE1ZmRhMmE3","key":"permission_viewer.migrated","value":"\"1\""}
+{"_id":"ZWJlNjY5NDZlOTUy","key":"core.moduleConfiguration","value":"{\"ambientdoors\":false,\"custom-css\":false,\"dice-so-nice\":false,\"dnd5e_colle\":false,\"dnd5e_classpack\":true,\"dae\":false,\"fantasy-ui\":false,\"foundry_community_macros\":true,\"icu5e\":false,\"lootsheetnpc5e\":false,\"_mathjs\":false,\"midi-qol\":false,\"multilevel-tokens\":true,\"mytab\":false,\"plutonium\":false,\"response-times\":true,\"simplemobile\":false,\"_sortablejs\":false,\"theatre\":false,\"token-action-hud\":false,\"token-tooltip-alt\":false,\"foundry_chn\":true,\"5e_chn\":true,\"wall-height\":false,\"combat-numbers\":false,\"dice-calculator\":false,\"healthEstimate\":false,\"MiniMap\":true,\"peaworldsetting\":false,\"sync-token-name\":true,\"journal-icon-numbers\":false,\"colorsettings\":false,\"popout\":true}"}
+{"key":"midi-qol.Debug","value":"\"none\"","_id":"aDiLsXXNfzjbleLU"}
+{"key":"dae.playersCanSeeEffects","value":"\"none\"","_id":"cIpMNbr4g9KmqcBD"}
+{"key":"core.time","value":"0","_id":"rtc9zfBcpkp3lNux"}
+{"key":"midi-qol.ColoredBorders","value":"\"none\"","_id":"tNJ1QFlUAlSRJr94"}

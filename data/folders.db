@@ -1,0 +1,82 @@
+{"name":"C.凯尔内瓦堡Keep at Caer-Dineval","type":"JournalEntry","sort":4100000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"05m8uMAhzRvXF0po"}
+{"name":"Y.伊瑟琳墓城Necropolis of Ythryn","type":"JournalEntry","sort":5900000,"flags":{},"parent":"NzVmYzhjMGM4MTU1","sorting":"a","color":"","_id":"2oLRyumhUCLW6tbN"}
+{"_id":"4HYGXbF44BCQDP3B","name":"十镇任务","type":"Scene","sort":100000,"flags":{},"parent":"hvDi4jkkWTJRvYT8","sorting":"a","color":""}
+{"_id":"5RsspPVY2QhpoxQp","name":"06.第六章","type":"Scene","sort":1500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"G.格雷姆斯高勒Grimskalle","type":"JournalEntry","sort":6600000,"flags":{},"parent":"M2IwZTQ3N2IxMTEx","sorting":"a","color":"","_id":"63QOQ6cMWUCToGeJ"}
+{"name":"U.坩埚洞穴Cauldron Caves","type":"JournalEntry","sort":4200000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"DVXhVVaaDV0qONEr"}
+{"name":"P.耐瑟瑞尔的失落尖塔Lost Spire of Netheril","type":"JournalEntry","sort":5200000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"EU1qna0PacgEVftf"}
+{"name":"R.享乐之终Revel's End","type":"JournalEntry","sort":6400000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"EiAq5wZU4OxEZbA5"}
+{"name":"E.精灵坟墓Elven Tomb","type":"JournalEntry","sort":4600000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"F21Lo1YajgNpsH4B"}
+{"name":"D.黑公爵夫人号Dark Duchess","type":"JournalEntry","sort":4900000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"HyMhgRG8Vkrsr84F"}
+{"name":"W.龙厄峭壁Wyrmdoom Crag","type":"JournalEntry","sort":6200000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"JSbaGoGu3TGTK2zY"}
+{"name":"Z.讥笑裂谷Cackling Chasm","type":"JournalEntry","sort":6300000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"JrhBNjnMMVL0PYV1"}
+{"_id":"KIiUDcMDkwKBdXIF","name":"法师法术","type":"Item","sort":200000,"flags":{},"parent":"MTA0ODgwNGFlMTg1","sorting":"a","color":""}
+{"_id":"LL4Gl3rQ4EehXNvk","name":"B.黑色小屋Black Cabin","type":"JournalEntry","sort":5400000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":""}
+{"name":"J.首领会Jarlmoot","type":"JournalEntry","sort":5100000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"LhUuf4MIZvp1nH3t"}
+{"_id":"M2IwZTQ3N2IxMTEx","name":"第五章：欧吕尔之所","type":"JournalEntry","sort":925000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MDE4Zjk5M2NhYWMz","name":"补充规则","type":"JournalEntry","sort":3175000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MGVkZjRiNDRkOTU4","name":"第一章: 十镇","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MTA0ODgwNGFlMTg1","name":"附录D：魔法","type":"Item","sort":1800000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"_id":"MTk5ZDg3YWY1MWEy","name":"生物和怪物材料","type":"JournalEntry","sort":3800000,"flags":{},"parent":"YmU4YWViMDcyZDMw","sorting":"a","color":""}
+{"_id":"MWY2NzI4ZWJkOGU0","name":"名胜古迹Places of Interest","type":"JournalEntry","sort":700000,"flags":{},"parent":"ODRjOTdiMDQ3MDcw","sorting":"a","color":""}
+{"name":"O.灰矮人前哨站Duergar Outpost","type":"JournalEntry","sort":3900000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"MY3upYUxrmu2OQtU"}
+{"_id":"MjllMjAyOTU2Y2Qz","name":"魔法物品","type":"Item","sort":100000,"flags":{},"parent":"MTA0ODgwNGFlMTg1","sorting":"a","color":""}
+{"_id":"MzE1NjVlODUzMWQ2","name":"后记","type":"JournalEntry","sort":2400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"MzcwYTE1MWY4MDMz","name":"法师法术","type":"JournalEntry","sort":2200000,"flags":{},"parent":"ZDBmNGY1MzVlNDI3","sorting":"a","color":""}
+{"_id":"N2Y4YWEyMWE3Mzc3","name":"附录B：角色秘密","type":"JournalEntry","sort":1600000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"N2YyZDNlOTdlNGRk","name":"边栏","type":"JournalEntry","sort":1400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NDk2ODJjZjNiNjIx","name":"从这里开始","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"m","color":""}
+{"_id":"NGJjMTcyMDZlOGFi","name":"特殊装备","type":"JournalEntry","sort":3100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NmI1M2U2OGVkODAz","name":"原版信息(模组信息)","type":"JournalEntry","sort":100000,"flags":{},"parent":"NDk2ODJjZjNiNjIx","sorting":"a","color":""}
+{"_id":"NmRhNzA4M2YyODY5","name":"第四章：毁灭之光","type":"JournalEntry","sort":900000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"NzVmYzhjMGM4MTU1","name":"第七章：伊瑟琳城的末日","type":"JournalEntry","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ODMyMjRkYmI3NGRj","name":"卡片","type":"RollTable","sort":4000000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ODRjOTdiMDQ3MDcw","name":"第二章：冰风谷","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ODgzZjkwNzM5ODM4","name":"魔法书","type":"JournalEntry","sort":2100000,"flags":{},"parent":"ZDBmNGY1MzVlNDI3","sorting":"a","color":""}
+{"name":"S.天塔庇护所Skytower Shelter","type":"JournalEntry","sort":6100000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"ONlu7OeuDA3NWa9y"}
+{"_id":"OTMwM2E0YzJjYjFh","name":"魔法物品","type":"Item","sort":3200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"OTlkNTE1MTU2NmI0","name":"附录A：冰风谷饰品","type":"JournalEntry","sort":1500000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"OWY0YjBhYmUzOGE1","name":"魔卫 Magen","type":"Actor","sort":200000,"flags":{},"parent":"ZWY3OGU0YTlhNmU0","sorting":"a","color":""}
+{"name":"L.霜巨人冰屋Frost Giant Ice Lodge","type":"JournalEntry","sort":4000000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"Oawsv1FSLMhBvcLW"}
+{"_id":"OuLD6nWzZaJ81Slm","name":"02.第二章","type":"Scene","sort":800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"PArOERvkjcqFK9wU","name":"I.索斯提岛 Island of Solstice","type":"JournalEntry","sort":5800000,"flags":{},"parent":"M2IwZTQ3N2IxMTEx","sorting":"a","color":""}
+{"_id":"Qt3jSfK43RAF8sFq","name":"十镇","type":"Scene","sort":200000,"flags":{},"parent":"hvDi4jkkWTJRvYT8","sorting":"a","color":""}
+{"_id":"Rb3wBYcgrMDsov0v","name":"亮君DM发言","type":"JournalEntry","sort":5600000,"flags":{},"parent":"dGQP7a7jpOlncAXF","sorting":"a","color":""}
+{"name":"V.亚巨人巢穴Verbeeg Lair","type":"JournalEntry","sort":4500000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"TC4A6W0PioOeaIIo"}
+{"name":"Q.狂战士洞窟Cave of the Berserkers","type":"JournalEntry","sort":6500000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"VrTcniAYptOaT1MZ"}
+{"_id":"Y2UyZTRiYmIzZmQ1","name":"随机表","type":"RollTable","sort":3900000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"Y9dMLgrbv9VPBoZE","name":"野外生存规则","type":"JournalEntry","sort":100000,"flags":{},"parent":"ZjQzMmIxZGYwNWMy","sorting":"a","color":""}
+{"_id":"YWQzM2VkNGM1OGY2","name":"瑞格游牧民Reghed Nomads","type":"Actor","sort":300000,"flags":{},"parent":"ZWY3OGU0YTlhNmU0","sorting":"a","color":""}
+{"_id":"YjA1ZjVmNzJhMzAx","name":"有名字的NPC","type":"JournalEntry","sort":3700000,"flags":{},"parent":"YmU4YWViMDcyZDMw","sorting":"a","color":""}
+{"_id":"Yjg5ZTZlZTQ1ZTE4","name":"附录C：生物","type":"JournalEntry","sort":1700000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"YmQyYjczYWNhMzE0","name":"尾声","type":"JournalEntry","sort":1300000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"YmU4YWViMDcyZDMw","name":"玩家材料","type":"JournalEntry","sort":3250000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"YmVhNTc5OWMxMTdk","name":"十镇任务","type":"JournalEntry","sort":500000,"flags":{},"parent":"MGVkZjRiNDRkOTU4","sorting":"a","color":""}
+{"_id":"YzA5NmRjMWI5NWY3","name":"十镇","type":"JournalEntry","sort":400000,"flags":{},"parent":"MGVkZjRiNDRkOTU4","sorting":"a","color":""}
+{"_id":"ZDBmNGY1MzVlNDI3","name":"附录D：魔法","type":"JournalEntry","sort":1800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZDE0OTc5ZWMyYjBi","name":"生物和NPC Creatures and NPCs","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZGI1N2ZjNGFmNDgw","name":"狮鹫Griffon","type":"Actor","sort":100000,"flags":{},"parent":"ZWY3OGU0YTlhNmU0","sorting":"a","color":""}
+{"_id":"ZWJmNzg1YWZlOGUy","name":"第三章：荒日堡","type":"JournalEntry","sort":800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZWM4NDRlOWVjN2M5","name":"玩家美术材料","type":"JournalEntry","sort":3600000,"flags":{},"parent":"YmU4YWViMDcyZDMw","sorting":"a","color":""}
+{"_id":"ZWM4NDk2OTIwN2Fi","name":"有名字的NPC Named NPCs","type":"Actor","sort":200000,"flags":{},"parent":"ZDE0OTc5ZWMyYjBi","sorting":"a","color":""}
+{"_id":"ZWY3OGU0YTlhNmU0","name":"生物 Creatures","type":"Actor","sort":100000,"flags":{},"parent":"ZDE0OTc5ZWMyYjBi","sorting":"a","color":""}
+{"_id":"ZjQzMmIxZGYwNWMy","name":"序言：欢迎来到北地","type":"JournalEntry","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZjU1MGI3YTYwYjFm","name":"第六章：饥饿洞窟","type":"JournalEntry","sort":950000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"ZmIyODM1ZTAxNWM3","name":"魔法物品（见物品）","type":"JournalEntry","sort":1900000,"flags":{},"parent":"ZDBmNGY1MzVlNDI3","sorting":"a","color":""}
+{"name":"N.代号：星位Id Ascendant","type":"JournalEntry","sort":5300000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"cTCWEHEzs8M44QWW"}
+{"_id":"dGQP7a7jpOlncAXF","name":"译者吐槽（非模组内容）","type":"JournalEntry","sort":3450000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"T.东流亡地市政大厅Easthaven Town Hall","type":"JournalEntry","sort":4300000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"gN9q5zCHCNDjway1"}
+{"_id":"h0Y4McjEgXg0t0Mr","name":"03.第三章","type":"Scene","sort":900000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"05.第五章","type":"Scene","sort":1300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"hul8YvnsOLVUDWwt"}
+{"_id":"hvDi4jkkWTJRvYT8","name":"01.第一章","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"itlVAB230iJqF9HB","name":"M.矿井Gem Mine","type":"JournalEntry","sort":4800000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":""}
+{"name":"Y19.伊里奥拉萨斯之塔Spire of Iriolarthas","type":"JournalEntry","sort":6000000,"flags":{},"parent":"2oLRyumhUCLW6tbN","sorting":"a","color":"","_id":"jRXxUkKtWZzhrCem"}
+{"_id":"k92GVRISP69Zvsrl","name":"H.饥饿洞窟Caves of Hunger","type":"JournalEntry","sort":100000,"flags":{},"parent":"ZjU1MGI3YTYwYjFm","sorting":"a","color":""}
+{"name":"A.安格加之铃Angajuk’s Bell","type":"JournalEntry","sort":5700000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"lKf8AtiSXZNgFX6H"}
+{"_id":"mNaaOmrkgHNvHM8A","name":"FF.杂项","type":"Scene","sort":1800000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"07.第七章","type":"Scene","sort":1700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"nAU7KgTrxUSEXbFo"}
+{"name":"X.荒日堡","type":"JournalEntry","sort":4400000,"flags":{},"parent":"ZWJmNzg1YWZlOGUy","sorting":"a","color":"","_id":"pbWSPJJSQUl8KIte"}
+{"_id":"rb8br5yPxc1OQLNL","name":"04.第四章","type":"Scene","sort":950000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"K.卡科洛克Karkolohk","type":"JournalEntry","sort":5000000,"flags":{},"parent":"MWY2NzI4ZWJkOGU0","sorting":"a","color":"","_id":"uY4xIyhqbEuy0TBn"}
+{"name":"F.凯恩巨锥Kelvin's Cairn","type":"JournalEntry","sort":4700000,"flags":{},"parent":"YmVhNTc5OWMxMTdk","sorting":"a","color":"","_id":"vjMTEmLCmHAJQEfz"}
+{"_id":"yOCPRrqiknDZqucR","name":"00.序章","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
